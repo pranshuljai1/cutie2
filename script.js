@@ -1,10 +1,10 @@
 // Array of photos and texts
 const photos = [
-    { src: 'photo1.jpg', text: 'i am very happy with you।' },
-    { src: 'photo2.jpg', text: 'तुमसे मिलकर दिल खुश हो जाता है।' },
-    { src: 'photo3.jpg', text: 'तुम्हारी smile bohot achi hai।' },
-    { src: 'photo4.jpg', text: 'will you be mine?' },
-    { src: 'photo5.jpg', text: 'I Love You please ❤️' },
+    { src: 'photos/photo1.jpg', text: 'i am very happy with you।' },
+    { src: 'photos/photo2.jpg', text: 'तुमसे मिलकर दिल खुश हो जाता है।' },
+    { src: 'photos/photo3.jpg', text: 'तुम्हारी smile bohot achi hai।' },
+    { src: 'photos/photo4.jpg', text: 'will you be mine?' },
+    { src: 'photos/photo5.jpg', text: 'I Love You please ❤️' },
 ];
 
 let currentIndex = 0;
